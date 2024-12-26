@@ -6,6 +6,11 @@ Only depends on _@scure_ and _@noble_ packages.
 
 This package is only providing lower-level functionality. If you want more higher-level features, take a look at [Nostrify](https://nostrify.dev), or if you want an easy-to-use fully-fledged solution that abstracts the hard parts of Nostr and makes decisions on your behalf, take a look at [NDK](https://github.com/nostr-dev-kit/ndk) and [@snort/system](https://www.npmjs.com/package/@snort/system).
 
+## Recent Updates
+- Improved TypeScript type definitions for better IDE support and error catching
+- Fixed import/export handling for better module resolution
+- Enhanced build system compatibility for both ESM and CJS
+
 ## Installation
 
 ```bash
